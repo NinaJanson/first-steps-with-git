@@ -1,1 +1,1 @@
-Ich lerne git und wende hier den inital commit an.
+Ich lerne git und wende hier den initial commit an.
